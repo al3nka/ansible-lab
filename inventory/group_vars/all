@@ -7,3 +7,4 @@ aptcachetime: 3600
 app_dir: /opt/sample
 app_file: service.jar
 app_port: 8080
+app_url: "https://storage.googleapis.com/devops-practice-files/systemd/ServicesLab-0.0.1.jar"
